@@ -1,0 +1,9 @@
+# Ignore the dataset directory
+PetImages/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
